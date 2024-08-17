@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+input {
+    margin-bottom: 10px;
+    padding: 8px;
+    font-size: 16px;
+}
+
+button {
+    margin-right: 10px;
+    color: #1a1818;
+    background-color: rgb(17, 240, 165);
+    padding: 8px 12px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #f4f4f4;
+    cursor: pointer;
+}
+
+td img {
+    vertical-align: middle;
+}
